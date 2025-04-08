@@ -1718,6 +1718,78 @@ a {
   left: 0;
 }
 
+.home .banner-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.home .banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.home .new-arrival-card {
+  position: absolute;
+
+  background-color: #fdf0db;
+  padding: 40px;
+  border-radius: 12px;
+
+  font-family: "Arial", sans-serif;
+  color: #2f2f2f;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  width: 643px;
+  height: 443px;
+  top: 253px;
+  left: 739px;
+}
+
+.home .banner-subtitle {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #444;
+  width: 123;
+  height: 24;
+  top: 315px;
+  left: 780px;
+}
+
+.home .banner-title {
+  font-family: "Poppins", Helvetica;
+  font-size: 52px;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  color: #B88E2F;
+  line-height: 1.2;
+}
+
+.home .banner-description {
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.home .buy-button {
+  background-color: #B88E2F;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 0px;
+}
+
+
 .home .group {
   position: absolute;
   width: 1185px;
