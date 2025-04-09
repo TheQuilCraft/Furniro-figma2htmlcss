@@ -1765,7 +1765,7 @@ a {
   font-size: 52px;
   font-weight: 700;
   margin: 0 0 20px 0;
-  color: #B88E2F;
+  color: #b88e2f;
   line-height: 1.2;
 }
 
@@ -1779,7 +1779,7 @@ a {
 }
 
 .home .buy-button {
-  background-color: #B88E2F;
+  background-color: #b88e2f;
   color: white;
   border: none;
   padding: 12px 24px;
@@ -1788,7 +1788,6 @@ a {
   cursor: pointer;
   border-radius: 0px;
 }
-
 
 .home .group {
   position: absolute;
@@ -5219,10 +5218,10 @@ header.header {
 
 /* Checkout button pop-in animation */
 .group-10 .overlap-group-4 {
-  background-color: #007bff;
+  background-color: #f9f1e7;
   color: #fff;
   padding: 10px 20px;
-  border-radius: 4px;
+  border-radius: 15px;
   cursor: pointer;
   text-align: center;
   opacity: 0;
